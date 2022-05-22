@@ -8,6 +8,25 @@ Repositori ini merupakan tugas akhir mata kuliah Praktikum Pemodelan Oseanografi
 > ![image](https://user-images.githubusercontent.com/102911269/169704193-bc2c7632-bec9-458c-8dfe-49f542f0f06d.png)
 
 # Prosedur Instalasi Library
+1. Untuk instalasi library pertama buka aplikasi Anaconda Prompt (miniconda 3)
+> ![minicon](https://user-images.githubusercontent.com/102911269/169704841-9b3cbbb4-6104-41e4-b620-8c31e1dd213c.png)
+
+
+2. Ketikan (pip install + nama librray yang digunakan (selengkapnya dapat di cek di bawah))
+> [image](https://user-images.githubusercontent.com/102911269/169704739-8550e56f-e503-41f4-897f-eaa4a86b5c9a.png)
+
+3. Enter untuk run tunggu hingga selesai dan ulangi langkah yang sama untuk library lainnya
+> ![image](https://user-images.githubusercontent.com/102911269/169704754-446896b6-30f6-4f09-990b-cec8387c8547.png)
+
+Daftar Library yang Digunakan
+> Matplotlib = _pip install matplotlib_
+
+> Numpy = _pip install numpy_
+
+> sys = _pip install os-sys_
+
+> Siphon = _pip install siphon_
+
 # Modul 1 Adveksi Difusi 1 Dimensi
 Materi
 Hasil
