@@ -1,6 +1,12 @@
 # Tugas-Kelompok-Akhir-Pemodelan-Osenaografi
 Repositori ini merupakan tugas akhir mata kuliah Praktikum Pemodelan Oseanografi tahun 2022. Bahasa pemograman yang digunakan dalam repositori ini adalah bahasa pemograman Python yang dapat dikerjakan pada text editor Google Colaboratory, Visual Studio Code  dan Jupyter Notebook. Modul yang digunakan pada repositori ini adalah matplotlib, numpy, dan sys.
 # Prosedur Instalasi Miniconda
+1. Unduh file instalasi miniconda melalui website pilihlah sesuai jenis perangkat yang digunakan
+> ![image](https://user-images.githubusercontent.com/102911269/169704071-63026bad-f7d7-457a-87e2-a51f8a1df97c.png)
+ 
+2. Jalankan program yang sebelumnya di unduh dan setujui setiap step yang ada, atau kustomisasi sesuai kengininan, jika proses pengintalan selesai maka klik finish 
+> ![image](https://user-images.githubusercontent.com/102911269/169704193-bc2c7632-bec9-458c-8dfe-49f542f0f06d.png)
+
 # Prosedur Instalasi Library
 # Modul 1 Adveksi Difusi 1 Dimensi
 Materi
